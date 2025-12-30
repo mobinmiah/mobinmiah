@@ -22,12 +22,9 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,daisyui,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,js,html,css,git" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/node-js">
-  <img src="[https://img.shields.io/badge/node-js](https://img.shields.io/badge/react-js)">
-</p>
+
 ---
 
 ### 📌 Featured Projects
