@@ -37,8 +37,8 @@
 
 ### 📫 Connect With Me
 - 💼 Portfolio: _Coming Soon_
-- 🌐 LinkedIn: [[_Add your LinkedIn URL_](https://www.linkedin.com/in/md-mobin-miah-8830b93a2)]
-- 📧 Email: _your-email@example.com_
+- 🌐 LinkedIn: [https://www.linkedin.com/in/md-mobin-miah-8830b93a2]
+- 📧 Email:[mdmobinmiah1998@gmail.com]
 
 ---
 
