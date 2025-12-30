@@ -12,6 +12,12 @@
 
 ---
 
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mobinmiah&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 ### 🚀 About Me
 - 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
 - 🌱 Currently building **full-stack web applications**
