@@ -3,12 +3,6 @@
   <img src="https://raw.githubusercontent.com/mobinmiah/mobinmiah/main/covar.png" alt="Mobin Miah Banner" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mobinmiah&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
----
-
 ### 📫 Connect With Me
 - 💼 **Portfolio**: _Coming Soon_
 - 🌐 **LinkedIn**: [md-mobin-miah](https://www.linkedin.com/in/md-mobin-miah-8830b93a2)
@@ -17,9 +11,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mobinmiah&theme=tokyonight&no-frame=true&row=1" />
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 ---
 ### 🚀 About Me
