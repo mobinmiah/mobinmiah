@@ -7,7 +7,7 @@
 ### 📫 Connect With Me
 - 💼 **Portfolio**: _Coming Soon_
 - 🌐 **LinkedIn**: [md-mobin-miah](https://www.linkedin.com/in/md-mobin-miah-8830b93a2)
-- 📨 Gmail: [Send Email](https://mail.google.com/mail/?view=cm&to=mdmobinmiah1998@gamil.com)
+- 📨 Gmail: [Send Email](https://mail.google.com/mail/?view=cm&to=mobinmiah1990@gmail.com)
 - 💬 **WhatsApp**: [Chat on WhatsApp](https://wa.me/8801878014535)
 
 ---
