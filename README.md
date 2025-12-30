@@ -12,7 +12,7 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mobinmiah&show_icons=true&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=mobinmiah&theme=tokyonight)
 
 ---
 ### 🚀 About Me
