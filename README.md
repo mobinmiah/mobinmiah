@@ -11,18 +11,8 @@
 
 ---
 ### 📊 GitHub Stats
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=mobinmiah&theme=highcontrast)](https://git.io/streak-stats)
 
-<!-- Contribution Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinmiah&theme=github)
-
-<!-- GitHub Trophies -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mobinmiah&theme=github)
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=mobinmiah&color=blue)
-  
 ---
 ### 🚀 About Me
 - 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
