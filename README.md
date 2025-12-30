@@ -11,7 +11,7 @@
 
 ---
 ### 📊 GitHub Stats
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mobinmiah)](https://git.io/streak-stats)
 <!-- Contribution Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinmiah&theme=github)
 
