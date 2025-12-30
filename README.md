@@ -8,6 +8,10 @@
 - 💼 Portfolio: _Coming Soon_
 - 🌐 LinkedIn: [md-mobin-miah](https://www.linkedin.com/in/md-mobin-miah-8830b93a2)
 - 📧 Email: [mdmobinmiah1998@gmail.com](mailto:mdmobinmiah1998@gmail.com)
+- - 💼 Portfolio: _Coming Soon_
+- 🌐 LinkedIn: [md-mobin-miah](https://www.linkedin.com/in/md-mobin-miah-8830b93a2)
+- 📧 Email: [mdmobinmiah1998@gmail.com](mailto:mdmobinmiah1998@gmail.com)
+- 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/8801878014535)
 ---
 
 ### 🚀 About Me
