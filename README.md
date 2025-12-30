@@ -11,8 +11,8 @@
 
 ---
 ### Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=mobinmiah)](https://git.io/streak-stats)
-
+- [![GitHub Streak](https://streak-stats.demolab.com?user=mobinmiah)](https://git.io/streak-stats)
+  
 ---
 ### 🚀 About Me
 - 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
