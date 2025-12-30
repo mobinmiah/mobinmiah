@@ -10,15 +10,6 @@
 - 💬 **WhatsApp**: [Chat on WhatsApp](https://wa.me/8801878014535)
 
 ---
-
-### 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=mobinmiah&show_icons=true&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=mobinmiah&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinmiah&layout=compact&theme=tokyonight)
-
----
 ### 🚀 About Me
 - 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
 - 🌱 Currently building **full-stack web applications**
