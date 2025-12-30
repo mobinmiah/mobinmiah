@@ -10,8 +10,8 @@
 - 💬 **WhatsApp**: [Chat on WhatsApp](https://wa.me/8801878014535)
 
 ---
-### Streak Stats
-- [![GitHub Streak](https://streak-stats.demolab.com?user=mobinmiah)](https://git.io/streak-stats)
+### 📈 My GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=mobinmiah)](https://git.io/streak-stats)
   
 ---
 ### 🚀 About Me
