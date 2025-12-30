@@ -21,9 +21,9 @@
 ---
 
 ### 📌 Featured Projects
-- 🧸 **ToyTopia** – Kids Toy Store Platform  
 - 🏢 **AssetVerse** – Corporate Asset Management System  
 - 🌐 **Dashboard & Admin Panel Applications**
+- 🧸 **ToyTopia** – Kids Toy Store Platform  
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 📫 Connect With Me
 - 💼 Portfolio: _Coming Soon_
-- 🌐 LinkedIn: _Add your LinkedIn URL_
+- 🌐 LinkedIn: [[_Add your LinkedIn URL_](https://www.linkedin.com/in/md-mobin-miah-8830b93a2)]
 - 📧 Email: _your-email@example.com_
 
 ---
