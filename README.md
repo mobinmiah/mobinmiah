@@ -10,6 +10,10 @@
 - 💬 **WhatsApp**: [Chat on WhatsApp](https://wa.me/8801878014535)
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mobinmiah)](https://git.io/streak-stats)
+
+---
 ### 🚀 About Me
 - 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
 - 🌱 Currently building **full-stack web applications**
