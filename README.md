@@ -11,7 +11,7 @@
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mobinmiah&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://raw.githubusercontent.com/mobinmiah/github-stats-transparent/output/generated/overview.svg)
 
 ---
 ### 🚀 About Me
