@@ -24,12 +24,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,daisyui,js,html,css,git" />
 </p>
-
 <p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/node-js">
+  <img src="[https://img.shields.io/badge/node-js](https://img.shields.io/badge/react-js)">
 </p>
-
 ---
 
 ### 📌 Featured Projects
