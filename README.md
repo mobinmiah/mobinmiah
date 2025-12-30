@@ -10,8 +10,16 @@
 - 💬 **WhatsApp**: [Chat on WhatsApp](https://wa.me/8801878014535)
 
 ---
-### 📈 My GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=mobinmiah)](https://git.io/streak-stats)
+### 📊 GitHub Stats
+
+<!-- Contribution Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinmiah&theme=github)
+
+<!-- GitHub Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mobinmiah&theme=github)
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=mobinmiah&color=blue)
   
 ---
 ### 🚀 About Me
