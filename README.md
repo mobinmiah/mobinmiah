@@ -11,7 +11,7 @@
 
 ---
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=mobinmiah&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mobinmiah&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 ### 🚀 About Me
