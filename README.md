@@ -27,12 +27,27 @@
 
 ---
 
+### 🔭 Recent Activity
+- 🌱 Exploring **Next.js**
+- 🧳 Building a **AssetVerse**
+- 💼 Developing full-stack MERN projects
+
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,js,html,css,git" />
 </p>
 
 ---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)    
 
 ### 📌 Featured Projects
 - 🏢 **AssetVerse** – Corporate Asset Management System  
