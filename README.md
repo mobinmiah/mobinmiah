@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mobinmiah/mobinmiah/main/cover-git.png" alt="Mobin Miah Banner" />
+  <img src="https://raw.githubusercontent.com/mobinmiah/mobinmiah/main/gitcover2.png" alt="Mobin Miah Banner" />
 </p>
 
 # 👋 Hi, I'm Mobin Miah  
