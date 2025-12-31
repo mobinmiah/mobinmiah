@@ -3,6 +3,11 @@
   <img src="https://raw.githubusercontent.com/mobinmiah/mobinmiah/main/cover-git.png" alt="Mobin Miah Banner" />
 </p>
 
+# 👋 Hi, I'm Mobin Miah  
+### 💻 MERN Stack Developer
+
+---
+
 ### 📫 Connect With Me
 - 💼 **Portfolio**: _Coming Soon_
 - 🌐 **LinkedIn**: [md-mobin-miah](https://www.linkedin.com/in/md-mobin-miah-8830b93a2)
